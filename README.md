@@ -14,4 +14,4 @@
      ii. Item 3b
 
 
-![Test](/image/aaa.png)
+![Test](/image/aaa.PNG)
